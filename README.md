@@ -9,4 +9,4 @@ ADDONS
 ======
 
 - ofxThreadedVideo
-- ofxBaseGui
+- ofxGui
